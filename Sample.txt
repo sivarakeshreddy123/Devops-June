@@ -1,2 +1,2 @@
-From Feature-1 branch
 Sample File
+From Feature-1 branch
